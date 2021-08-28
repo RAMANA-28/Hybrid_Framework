@@ -45,7 +45,7 @@ public class ClassTemplate extends StaticVariables{
 	p.load(fi);
 	
 	/***************** Develop the Code here ***************/
-	
+	cfn.openurl("https://google.com");
 	
   }
   @AfterMethod
